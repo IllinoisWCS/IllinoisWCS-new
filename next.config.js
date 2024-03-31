@@ -2,7 +2,7 @@
 const nextConfig = {
   reactStrictMode: true,
   output: "export",
-  basePath: "/IllinoisWCS-new/github-pages",
+  basePath: "/IllinoisWCS-new/",
 };
 
 module.exports = nextConfig;
